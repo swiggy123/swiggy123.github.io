@@ -1,3 +1,3 @@
 ## interactive plots
 
-http://username.github.io/repo
+http://swiggy123.github.io/repo
